@@ -1,0 +1,115 @@
+Grade Report for Lab 3 Testall
+test_redirect_input Failed 0/1
+test_redirect_output Failed 0/1
+test_redirect_error Failed 0/1
+test_redirect_error2 Failed 0/1
+test_redirect_out_err Failed 0/1
+test_redirect_multiple Failed 0/1
+test_append_output Failed 0/1
+test_pipes1 Failed 0/1
+test_pipes2 Failed 0/1
+test_pipes_redirect_out Failed 0/1
+test_pipes_redirect_err Failed 0/1
+test_background Failed 0/1
+test_zombie Failed 0/1
+test_printenv Failed 0/1
+test_setenv Failed 0/.5
+test_unsetenv Failed 0/.5
+test_source Failed 0/2
+test_cd1 Failed 0/.5
+test_cd2 Failed 0/.5
+test_cd3 Failed 0/.5
+test_cd4 Failed 0/.5
+test_parsing1 Failed 0/.5
+test_parsing2 Failed 0/.5
+test_quotes1 Failed 0/1
+test_quotes2 Failed 0/1
+test_escape Failed 0/1
+test_env_expand1 Failed 0/1
+test_env_expand2 Failed 0/.5
+test_env_var_shell Failed 0/.5
+test_env_var_dollar Failed 0/.5
+test_env_var_question Failed 0/.5
+test_env_var_bang Failed 0/.5
+test_env_var_uscore Failed 0/.3
+test_subshell Failed 0/10
+test_wildcards1 Failed 0/2
+test_wildcards2 Failed 0/1
+test_wildcards3 Failed 0/1
+test_wildcards4 Failed 0/.5
+test_wildcards5 Failed 0/.5
+test_wildcards6 Failed 0/.5
+test_wildcards7 Failed 0/.5
+test_tilde Failed 0/2
+test_robustness Failed 0/5
+test_if_1 Failed 0/5
+test_if_2 Failed 0/5
+test_while_1 Failed 0/4
+test_while_2 Failed 0/4
+test_for_1 Failed 0/4
+test_for_2 Failed 0/4
+test_script_1 Failed 0/4
+Tue Apr  9 03:47:34 PM EDT 2024
+Total:                   0.0 of 79.8
+Tue Apr  9 03:47:51 PM EDT 2024
+Part 2 Total:            24.8 of 24.8
+Tue Apr  9 06:31:47 PM EDT 2024
+Part 2 Total:            24.3 of 24.8
+Tue Apr  9 06:41:14 PM EDT 2024
+Part 3 Total:            12.5 of 43.0
+Tue Apr  9 06:41:25 PM EDT 2024
+Part 2 Total:            24.8 of 24.8
+Tue Apr  9 08:11:28 PM EDT 2024
+Part 3 Total:            20.5 of 43.0
+Tue Apr  9 09:29:30 PM EDT 2024
+Part 3 Total:            12.5 of 43.0
+Tue Apr  9 10:01:26 PM EDT 2024
+Part 3 Total:            16.5 of 43.0
+Tue Apr  9 10:02:00 PM EDT 2024
+Part 3 Total:            20.5 of 43.0
+Tue Apr  9 10:02:26 PM EDT 2024
+Part 3 Total:            20.5 of 43.0
+Tue Apr  9 10:09:06 PM EDT 2024
+Part 3 Total:            31.0 of 43.0
+Tue Apr  9 10:14:58 PM EDT 2024
+Total:                   67.8 of 79.8
+Wed Apr 10 12:49:27 AM EDT 2024
+Part 3 Total:            35.0 of 43.0
+Wed Apr 10 12:51:09 AM EDT 2024
+Part 3 Total:            39.0 of 43.0
+Wed Apr 10 12:54:24 AM EDT 2024
+Total:                   75.8 of 79.8
+Wed Apr 10 01:39:19 AM EDT 2024
+Total:                   0.0 of 79.8
+Wed Apr 10 01:40:43 AM EDT 2024
+Total:                   0.0 of 79.8
+Wed Apr 10 01:42:26 AM EDT 2024
+Total:                   75.8 of 79.8
+Wed Apr 10 11:48:33 AM EDT 2024
+Total:                   0.0 of 79.8
+Wed Apr 10 11:50:38 AM EDT 2024
+Total:                   75.8 of 79.8
+Wed Apr 10 11:54:42 AM EDT 2024
+Total:                   79.8 of 79.8
+Wed Apr 10 12:04:10 PM EDT 2024
+Total:                   79.8 of 79.8
+Wed Apr 10 12:29:14 PM EDT 2024
+Total:                   74.8 of 79.8
+Wed Apr 10 12:31:19 PM EDT 2024
+Part 3 Total:            38.0 of 43.0
+Wed Apr 10 12:32:27 PM EDT 2024
+Part 3 Total:            43.0 of 43.0
+Wed Apr 10 12:34:40 PM EDT 2024
+Part 3 Total:            27.0 of 43.0
+Wed Apr 10 04:40:32 PM EDT 2024
+Total:                   79.8 of 79.8
+Wed Apr 10 04:55:26 PM EDT 2024
+Total:                   79.8 of 79.8
+Wed Apr 10 05:13:09 PM EDT 2024
+Total:                   63.8 of 79.8
+Wed Apr 10 05:17:30 PM EDT 2024
+Total:                   79.8 of 79.8
+Wed Apr 10 05:24:14 PM EDT 2024
+Total:                   79.8 of 79.8
+Wed Apr 10 09:54:01 PM EDT 2024
+Total:                   79.8 of 79.8
